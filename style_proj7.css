@@ -1,0 +1,64 @@
+#btn{
+    display: inline-block;
+    border:2px solid black;
+    border-radius: 20px;
+    padding: 15px;
+    background-color:darkslateblue;
+    color:aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    /* margin: 100px auto auto auto; */
+    position: absolute;
+    left: 660px;;
+    top: auto;
+    text-decoration: none;
+}
+
+#name{
+    display: inline-block;
+    border:2px solid black;
+    border-radius:10px ;
+    padding: 10px;
+    text-align: center;
+    background-color:darkblue;
+    color:aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    margin: auto;
+    width: 230px;
+     position: absolute;
+    left:609px;
+    top: 100px; 
+}
+#height{
+    display: inline-block;
+    border:2px solid black;
+    border-radius:10px ;
+    padding: 10px;
+    text-align: center;
+    background-color:maroon;
+    color:aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    margin: auto;
+    width: 230px;
+    position: absolute;
+    left:609px;
+    top: 200px;
+}
+#gender{
+    display: inline-block;
+    border:2px solid black;
+    border-radius:10px ;
+    padding: 10px;
+    text-align: center;
+    background-color:rgba(204, 0, 255, 0.505);
+    color:aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    margin: auto;
+    width: 230px;;
+    position: absolute;
+    left: 609px;
+    top: 300px;
+}
